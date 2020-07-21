@@ -28,6 +28,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,5.1,53,Washington,Rate
 2020,M04,April,16.3,53,Washington,Rate
 2020,M05,May,15.1,53,Washington,Rate
+2020,M06,June,9.8,53,Washington,Rate
 2018,M01,January,171383.0,53,Washington,Employment
 2018,M02,February,170795.0,53,Washington,Employment
 2018,M03,March,170114.0,53,Washington,Employment
@@ -56,7 +57,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,151533.0,53,Washington,Employment
 2020,M03,March,198560.0,53,Washington,Employment
 2020,M04,April,645110.0,53,Washington,Employment
-2020,M05,May,594342.0,53,Washington,Employment
+2020,M05,May,593883.0,53,Washington,Employment
+2020,M06,June,388448.0,53,Washington,Employment
 2018,M01,January,3591510.0,53,Washington,Unemployment
 2018,M02,February,3599592.0,53,Washington,Unemployment
 2018,M03,March,3608360.0,53,Washington,Unemployment
@@ -85,7 +87,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3810985.0,53,Washington,Unemployment
 2020,M03,March,3692118.0,53,Washington,Unemployment
 2020,M04,April,3318207.0,53,Washington,Unemployment
-2020,M05,May,3349159.0,53,Washington,Unemployment
+2020,M05,May,3351584.0,53,Washington,Unemployment
+2020,M06,June,3562587.0,53,Washington,Unemployment
 2018,M01,January,3.2,46,South Dakota,Rate
 2018,M02,February,3.2,46,South Dakota,Rate
 2018,M03,March,3.1,46,South Dakota,Rate
@@ -115,6 +118,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,3.1,46,South Dakota,Rate
 2020,M04,April,10.9,46,South Dakota,Rate
 2020,M05,May,9.4,46,South Dakota,Rate
+2020,M06,June,7.2,46,South Dakota,Rate
 2018,M01,January,14546.0,46,South Dakota,Employment
 2018,M02,February,14464.0,46,South Dakota,Employment
 2018,M03,March,14370.0,46,South Dakota,Employment
@@ -143,7 +147,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,15610.0,46,South Dakota,Employment
 2020,M03,March,14297.0,46,South Dakota,Employment
 2020,M04,April,51276.0,46,South Dakota,Employment
-2020,M05,May,43818.0,46,South Dakota,Employment
+2020,M05,May,43665.0,46,South Dakota,Employment
+2020,M06,June,33711.0,46,South Dakota,Employment
 2018,M01,January,443624.0,46,South Dakota,Unemployment
 2018,M02,February,443930.0,46,South Dakota,Unemployment
 2018,M03,March,444237.0,46,South Dakota,Unemployment
@@ -172,7 +177,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,451498.0,46,South Dakota,Unemployment
 2020,M03,March,453878.0,46,South Dakota,Unemployment
 2020,M04,April,419024.0,46,South Dakota,Unemployment
-2020,M05,May,420610.0,46,South Dakota,Unemployment
+2020,M05,May,420530.0,46,South Dakota,Unemployment
+2020,M06,June,434368.0,46,South Dakota,Unemployment
 2018,M01,January,4.5,39,Ohio,Rate
 2018,M02,February,4.5,39,Ohio,Rate
 2018,M03,March,4.5,39,Ohio,Rate
@@ -201,7 +207,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,4.1,39,Ohio,Rate
 2020,M03,March,5.8,39,Ohio,Rate
 2020,M04,April,17.6,39,Ohio,Rate
-2020,M05,May,13.7,39,Ohio,Rate
+2020,M05,May,13.9,39,Ohio,Rate
+2020,M06,June,10.9,39,Ohio,Rate
 2018,M01,January,259195.0,39,Ohio,Employment
 2018,M02,February,259856.0,39,Ohio,Employment
 2018,M03,March,262327.0,39,Ohio,Employment
@@ -230,7 +237,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,240841.0,39,Ohio,Employment
 2020,M03,March,334454.0,39,Ohio,Employment
 2020,M04,April,999218.0,39,Ohio,Employment
-2020,M05,May,788338.0,39,Ohio,Employment
+2020,M05,May,797228.0,39,Ohio,Employment
+2020,M06,June,631426.0,39,Ohio,Employment
 2018,M01,January,5503461.0,39,Ohio,Unemployment
 2018,M02,February,5505283.0,39,Ohio,Unemployment
 2018,M03,March,5509047.0,39,Ohio,Unemployment
@@ -259,7 +267,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,5588285.0,39,Ohio,Unemployment
 2020,M03,March,5441767.0,39,Ohio,Unemployment
 2020,M04,April,4672850.0,39,Ohio,Unemployment
-2020,M05,May,4955633.0,39,Ohio,Unemployment
+2020,M05,May,4958653.0,39,Ohio,Unemployment
+2020,M06,June,5162543.0,39,Ohio,Unemployment
 2018,M01,January,3.9,01,Alabama,Rate
 2018,M02,February,3.9,01,Alabama,Rate
 2018,M03,March,4.0,01,Alabama,Rate
@@ -288,7 +297,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.7,01,Alabama,Rate
 2020,M03,March,3.0,01,Alabama,Rate
 2020,M04,April,13.8,01,Alabama,Rate
-2020,M05,May,9.9,01,Alabama,Rate
+2020,M05,May,9.6,01,Alabama,Rate
+2020,M06,June,7.5,01,Alabama,Rate
 2018,M01,January,85233.0,01,Alabama,Employment
 2018,M02,February,86337.0,01,Alabama,Employment
 2018,M03,March,87563.0,01,Alabama,Employment
@@ -317,7 +327,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,59655.0,01,Alabama,Employment
 2020,M03,March,67004.0,01,Alabama,Employment
 2020,M04,April,302535.0,01,Alabama,Employment
-2020,M05,May,221811.0,01,Alabama,Employment
+2020,M05,May,216043.0,01,Alabama,Employment
+2020,M06,June,165770.0,01,Alabama,Employment
 2018,M01,January,2108270.0,01,Alabama,Unemployment
 2018,M02,February,2111603.0,01,Alabama,Unemployment
 2018,M03,March,2116089.0,01,Alabama,Unemployment
@@ -346,7 +357,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2184305.0,01,Alabama,Unemployment
 2020,M03,March,2151586.0,01,Alabama,Unemployment
 2020,M04,April,1895950.0,01,Alabama,Unemployment
-2020,M05,May,2024276.0,01,Alabama,Unemployment
+2020,M05,May,2023565.0,01,Alabama,Unemployment
+2020,M06,June,2030073.0,01,Alabama,Unemployment
 2018,M01,January,3.7,05,Arkansas,Rate
 2018,M02,February,3.7,05,Arkansas,Rate
 2018,M03,March,3.7,05,Arkansas,Rate
@@ -375,7 +387,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.5,05,Arkansas,Rate
 2020,M03,March,5.0,05,Arkansas,Rate
 2020,M04,April,10.8,05,Arkansas,Rate
-2020,M05,May,9.5,05,Arkansas,Rate
+2020,M05,May,9.6,05,Arkansas,Rate
+2020,M06,June,8.0,05,Arkansas,Rate
 2018,M01,January,50501.0,05,Arkansas,Employment
 2018,M02,February,50563.0,05,Arkansas,Employment
 2018,M03,March,50469.0,05,Arkansas,Employment
@@ -404,7 +417,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,47802.0,05,Arkansas,Employment
 2020,M03,March,69728.0,05,Arkansas,Employment
 2020,M04,April,140898.0,05,Arkansas,Employment
-2020,M05,May,128235.0,05,Arkansas,Employment
+2020,M05,May,129260.0,05,Arkansas,Employment
+2020,M06,June,105338.0,05,Arkansas,Employment
 2018,M01,January,1299054.0,05,Arkansas,Unemployment
 2018,M02,February,1299305.0,05,Arkansas,Unemployment
 2018,M03,March,1299917.0,05,Arkansas,Unemployment
@@ -433,7 +447,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,1319907.0,05,Arkansas,Unemployment
 2020,M03,March,1316741.0,05,Arkansas,Unemployment
 2020,M04,April,1168783.0,05,Arkansas,Unemployment
-2020,M05,May,1215161.0,05,Arkansas,Unemployment
+2020,M05,May,1216249.0,05,Arkansas,Unemployment
+2020,M06,June,1206952.0,05,Arkansas,Unemployment
 2018,M01,January,5.2,35,New Mexico,Rate
 2018,M02,February,5.1,35,New Mexico,Rate
 2018,M03,March,5.0,35,New Mexico,Rate
@@ -462,7 +477,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,4.8,35,New Mexico,Rate
 2020,M03,March,6.3,35,New Mexico,Rate
 2020,M04,April,11.9,35,New Mexico,Rate
-2020,M05,May,9.2,35,New Mexico,Rate
+2020,M05,May,9.1,35,New Mexico,Rate
+2020,M06,June,8.3,35,New Mexico,Rate
 2018,M01,January,48479.0,35,New Mexico,Employment
 2018,M02,February,47408.0,35,New Mexico,Employment
 2018,M03,March,46465.0,35,New Mexico,Employment
@@ -491,7 +507,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,46008.0,35,New Mexico,Employment
 2020,M03,March,61054.0,35,New Mexico,Employment
 2020,M04,April,108706.0,35,New Mexico,Employment
-2020,M05,May,83139.0,35,New Mexico,Employment
+2020,M05,May,82751.0,35,New Mexico,Employment
+2020,M06,June,76967.0,35,New Mexico,Employment
 2018,M01,January,885510.0,35,New Mexico,Unemployment
 2018,M02,February,886811.0,35,New Mexico,Unemployment
 2018,M03,March,888301.0,35,New Mexico,Unemployment
@@ -520,7 +537,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,915799.0,35,New Mexico,Unemployment
 2020,M03,March,907628.0,35,New Mexico,Unemployment
 2020,M04,April,807804.0,35,New Mexico,Unemployment
-2020,M05,May,821900.0,35,New Mexico,Unemployment
+2020,M05,May,822492.0,35,New Mexico,Unemployment
+2020,M06,June,845508.0,35,New Mexico,Unemployment
 2018,M01,January,4.0,48,Texas,Rate
 2018,M02,February,4.0,48,Texas,Rate
 2018,M03,March,4.0,48,Texas,Rate
@@ -550,6 +568,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,5.1,48,Texas,Rate
 2020,M04,April,13.5,48,Texas,Rate
 2020,M05,May,13.0,48,Texas,Rate
+2020,M06,June,8.6,48,Texas,Rate
 2018,M01,January,551518.0,48,Texas,Employment
 2018,M02,February,552438.0,48,Texas,Employment
 2018,M03,March,551955.0,48,Texas,Employment
@@ -578,7 +597,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,492454.0,48,Texas,Employment
 2020,M03,March,715827.0,48,Texas,Employment
 2020,M04,April,1744022.0,48,Texas,Employment
-2020,M05,May,1753114.0,48,Texas,Employment
+2020,M05,May,1753204.0,48,Texas,Employment
+2020,M06,June,1195821.0,48,Texas,Employment
 2018,M01,January,13156374.0,48,Texas,Unemployment
 2018,M02,February,13182948.0,48,Texas,Unemployment
 2018,M03,March,13211042.0,48,Texas,Unemployment
@@ -607,7 +627,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,13707110.0,48,Texas,Unemployment
 2020,M03,March,13288652.0,48,Texas,Unemployment
 2020,M04,April,11216661.0,48,Texas,Unemployment
-2020,M05,May,11744642.0,48,Texas,Unemployment
+2020,M05,May,11745046.0,48,Texas,Unemployment
+2020,M06,June,12643942.0,48,Texas,Unemployment
 2018,M01,January,4.4,06,California,Rate
 2018,M02,February,4.3,06,California,Rate
 2018,M03,March,4.3,06,California,Rate
@@ -636,7 +657,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.9,06,California,Rate
 2020,M03,March,5.5,06,California,Rate
 2020,M04,April,16.4,06,California,Rate
-2020,M05,May,16.3,06,California,Rate
+2020,M05,May,16.4,06,California,Rate
+2020,M06,June,14.9,06,California,Rate
 2018,M01,January,838791.0,06,California,Employment
 2018,M02,February,834115.0,06,California,Employment
 2018,M03,March,831159.0,06,California,Employment
@@ -665,7 +687,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,759328.0,06,California,Employment
 2020,M03,March,1052163.0,06,California,Employment
 2020,M04,April,3043334.0,06,California,Employment
-2020,M05,May,3018224.0,06,California,Employment
+2020,M05,May,3043056.0,06,California,Employment
+2020,M06,June,2831031.0,06,California,Employment
 2018,M01,January,18364857.0,06,California,Unemployment
 2018,M02,February,18383340.0,06,California,Unemployment
 2018,M03,March,18407492.0,06,California,Unemployment
@@ -694,7 +717,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,18756714.0,06,California,Unemployment
 2020,M03,March,18115804.0,06,California,Unemployment
 2020,M04,April,15539409.0,06,California,Unemployment
-2020,M05,May,15478744.0,06,California,Unemployment
+2020,M05,May,15463725.0,06,California,Unemployment
+2020,M06,June,16116992.0,06,California,Unemployment
 2018,M01,January,4.3,21,Kentucky,Rate
 2018,M02,February,4.3,21,Kentucky,Rate
 2018,M03,March,4.3,21,Kentucky,Rate
@@ -723,7 +747,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,4.2,21,Kentucky,Rate
 2020,M03,March,5.2,21,Kentucky,Rate
 2020,M04,April,16.6,21,Kentucky,Rate
-2020,M05,May,11.0,21,Kentucky,Rate
+2020,M05,May,10.9,21,Kentucky,Rate
+2020,M06,June,4.3,21,Kentucky,Rate
 2018,M01,January,89011.0,21,Kentucky,Employment
 2018,M02,February,88881.0,21,Kentucky,Employment
 2018,M03,March,89107.0,21,Kentucky,Employment
@@ -752,7 +777,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,88138.0,21,Kentucky,Employment
 2020,M03,March,107953.0,21,Kentucky,Employment
 2020,M04,April,339737.0,21,Kentucky,Employment
-2020,M05,May,222668.0,21,Kentucky,Employment
+2020,M05,May,220314.0,21,Kentucky,Employment
+2020,M06,June,82714.0,21,Kentucky,Employment
 2018,M01,January,1963545.0,21,Kentucky,Unemployment
 2018,M02,February,1964826.0,21,Kentucky,Unemployment
 2018,M03,March,1966703.0,21,Kentucky,Unemployment
@@ -781,7 +807,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,1995951.0,21,Kentucky,Unemployment
 2020,M03,March,1958322.0,21,Kentucky,Unemployment
 2020,M04,April,1712526.0,21,Kentucky,Unemployment
-2020,M05,May,1807888.0,21,Kentucky,Unemployment
+2020,M05,May,1809019.0,21,Kentucky,Unemployment
+2020,M06,June,1837555.0,21,Kentucky,Unemployment
 2018,M01,January,4.2,13,Georgia,Rate
 2018,M02,February,4.2,13,Georgia,Rate
 2018,M03,March,4.1,13,Georgia,Rate
@@ -810,7 +837,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.1,13,Georgia,Rate
 2020,M03,March,4.6,13,Georgia,Rate
 2020,M04,April,12.6,13,Georgia,Rate
-2020,M05,May,9.7,13,Georgia,Rate
+2020,M05,May,9.4,13,Georgia,Rate
+2020,M06,June,7.6,13,Georgia,Rate
 2018,M01,January,215349.0,13,Georgia,Employment
 2018,M02,February,212779.0,13,Georgia,Employment
 2018,M03,March,210124.0,13,Georgia,Employment
@@ -839,7 +867,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,161147.0,13,Georgia,Employment
 2020,M03,March,239219.0,13,Georgia,Employment
 2020,M04,April,614472.0,13,Georgia,Employment
-2020,M05,May,475338.0,13,Georgia,Employment
+2020,M05,May,460404.0,13,Georgia,Employment
+2020,M06,June,373404.0,13,Georgia,Employment
 2018,M01,January,4864151.0,13,Georgia,Unemployment
 2018,M02,February,4868724.0,13,Georgia,Unemployment
 2018,M03,March,4874374.0,13,Georgia,Unemployment
@@ -868,7 +897,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,4995200.0,13,Georgia,Unemployment
 2020,M03,March,4917754.0,13,Georgia,Unemployment
 2020,M04,April,4279924.0,13,Georgia,Unemployment
-2020,M05,May,4424801.0,13,Georgia,Unemployment
+2020,M05,May,4432132.0,13,Georgia,Unemployment
+2020,M06,June,4550242.0,13,Georgia,Unemployment
 2018,M01,January,3.0,55,Wisconsin,Rate
 2018,M02,February,3.0,55,Wisconsin,Rate
 2018,M03,March,3.0,55,Wisconsin,Rate
@@ -897,7 +927,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.5,55,Wisconsin,Rate
 2020,M03,March,3.1,55,Wisconsin,Rate
 2020,M04,April,13.6,55,Wisconsin,Rate
-2020,M05,May,12.0,55,Wisconsin,Rate
+2020,M05,May,12.1,55,Wisconsin,Rate
+2020,M06,June,8.5,55,Wisconsin,Rate
 2018,M01,January,92958.0,55,Wisconsin,Employment
 2018,M02,February,93049.0,55,Wisconsin,Employment
 2018,M03,March,93855.0,55,Wisconsin,Employment
@@ -926,7 +957,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,108875.0,55,Wisconsin,Employment
 2020,M03,March,96325.0,55,Wisconsin,Employment
 2020,M04,April,415557.0,55,Wisconsin,Employment
-2020,M05,May,371834.0,55,Wisconsin,Employment
+2020,M05,May,376650.0,55,Wisconsin,Employment
+2020,M06,June,260606.0,55,Wisconsin,Employment
 2018,M01,January,3036181.0,55,Wisconsin,Unemployment
 2018,M02,February,3035713.0,55,Wisconsin,Unemployment
 2018,M03,March,3034914.0,55,Wisconsin,Unemployment
@@ -955,7 +987,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2999939.0,55,Wisconsin,Unemployment
 2020,M03,March,2992488.0,55,Wisconsin,Unemployment
 2020,M04,April,2633090.0,55,Wisconsin,Unemployment
-2020,M05,May,2724920.0,55,Wisconsin,Unemployment
+2020,M05,May,2726588.0,55,Wisconsin,Unemployment
+2020,M06,June,2796318.0,55,Wisconsin,Unemployment
 2018,M01,January,4.1,41,Oregon,Rate
 2018,M02,February,4.1,41,Oregon,Rate
 2018,M03,March,4.1,41,Oregon,Rate
@@ -984,7 +1017,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.3,41,Oregon,Rate
 2020,M03,March,3.5,41,Oregon,Rate
 2020,M04,April,14.9,41,Oregon,Rate
-2020,M05,May,14.2,41,Oregon,Rate
+2020,M05,May,14.3,41,Oregon,Rate
+2020,M06,June,11.2,41,Oregon,Rate
 2018,M01,January,86323.0,41,Oregon,Employment
 2018,M02,February,86011.0,41,Oregon,Employment
 2018,M03,March,85409.0,41,Oregon,Employment
@@ -1013,7 +1047,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,69042.0,41,Oregon,Employment
 2020,M03,March,72890.0,41,Oregon,Employment
 2020,M04,April,314012.0,41,Oregon,Employment
-2020,M05,May,300669.0,41,Oregon,Employment
+2020,M05,May,303494.0,41,Oregon,Employment
+2020,M06,June,239325.0,41,Oregon,Employment
 2018,M01,January,2010773.0,41,Oregon,Unemployment
 2018,M02,February,2010720.0,41,Oregon,Unemployment
 2018,M03,March,2010909.0,41,Oregon,Unemployment
@@ -1042,7 +1077,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2036466.0,41,Oregon,Unemployment
 2020,M03,March,2038010.0,41,Oregon,Unemployment
 2020,M04,April,1796681.0,41,Oregon,Unemployment
-2020,M05,May,1819175.0,41,Oregon,Unemployment
+2020,M05,May,1820588.0,41,Oregon,Unemployment
+2020,M06,June,1906120.0,41,Oregon,Unemployment
 2018,M01,January,3.4,29,Missouri,Rate
 2018,M02,February,3.4,29,Missouri,Rate
 2018,M03,March,3.3,29,Missouri,Rate
@@ -1072,6 +1108,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,3.9,29,Missouri,Rate
 2020,M04,April,10.2,29,Missouri,Rate
 2020,M05,May,10.1,29,Missouri,Rate
+2020,M06,June,7.9,29,Missouri,Rate
 2018,M01,January,105002.0,29,Missouri,Employment
 2018,M02,February,103379.0,29,Missouri,Employment
 2018,M03,March,101581.0,29,Missouri,Employment
@@ -1100,7 +1137,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,109616.0,29,Missouri,Employment
 2020,M03,March,121587.0,29,Missouri,Employment
 2020,M04,April,308494.0,29,Missouri,Employment
-2020,M05,May,303259.0,29,Missouri,Employment
+2020,M05,May,303647.0,29,Missouri,Employment
+2020,M06,June,237649.0,29,Missouri,Employment
 2018,M01,January,2949635.0,29,Missouri,Unemployment
 2018,M02,February,2950686.0,29,Missouri,Unemployment
 2018,M03,March,2952953.0,29,Missouri,Unemployment
@@ -1129,7 +1167,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3002151.0,29,Missouri,Unemployment
 2020,M03,March,3024168.0,29,Missouri,Unemployment
 2020,M04,April,2720544.0,29,Missouri,Unemployment
-2020,M05,May,2709062.0,29,Missouri,Unemployment
+2020,M05,May,2709686.0,29,Missouri,Unemployment
+2020,M06,June,2782219.0,29,Missouri,Unemployment
 2018,M01,January,3.3,51,Virginia,Rate
 2018,M02,February,3.2,51,Virginia,Rate
 2018,M03,March,3.2,51,Virginia,Rate
@@ -1158,7 +1197,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.6,51,Virginia,Rate
 2020,M03,March,3.3,51,Virginia,Rate
 2020,M04,April,11.2,51,Virginia,Rate
-2020,M05,May,9.4,51,Virginia,Rate
+2020,M05,May,9.0,51,Virginia,Rate
+2020,M06,June,8.4,51,Virginia,Rate
 2018,M01,January,141597.0,51,Virginia,Employment
 2018,M02,February,138853.0,51,Virginia,Employment
 2018,M03,March,136540.0,51,Virginia,Employment
@@ -1187,7 +1227,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,117249.0,51,Virginia,Employment
 2020,M03,March,145294.0,51,Virginia,Employment
 2020,M04,April,482111.0,51,Virginia,Employment
-2020,M05,May,403967.0,51,Virginia,Employment
+2020,M05,May,389546.0,51,Virginia,Employment
+2020,M06,June,364309.0,51,Virginia,Employment
 2018,M01,January,4179688.0,51,Virginia,Unemployment
 2018,M02,February,4185221.0,51,Virginia,Unemployment
 2018,M03,March,4192335.0,51,Virginia,Unemployment
@@ -1216,7 +1257,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,4345324.0,51,Virginia,Unemployment
 2020,M03,March,4294056.0,51,Virginia,Unemployment
 2020,M04,April,3831939.0,51,Virginia,Unemployment
-2020,M05,May,3915866.0,51,Virginia,Unemployment
+2020,M05,May,3916764.0,51,Virginia,Unemployment
+2020,M06,June,3957935.0,51,Virginia,Unemployment
 2018,M01,January,3.6,47,Tennessee,Rate
 2018,M02,February,3.6,47,Tennessee,Rate
 2018,M03,March,3.6,47,Tennessee,Rate
@@ -1245,7 +1287,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.4,47,Tennessee,Rate
 2020,M03,March,3.3,47,Tennessee,Rate
 2020,M04,April,15.5,47,Tennessee,Rate
-2020,M05,May,11.3,47,Tennessee,Rate
+2020,M05,May,11.0,47,Tennessee,Rate
+2020,M06,June,9.7,47,Tennessee,Rate
 2018,M01,January,114384.0,47,Tennessee,Employment
 2018,M02,February,115485.0,47,Tennessee,Employment
 2018,M03,March,116267.0,47,Tennessee,Employment
@@ -1274,7 +1317,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,114321.0,47,Tennessee,Employment
 2020,M03,March,112742.0,47,Tennessee,Employment
 2020,M04,April,499621.0,47,Tennessee,Employment
-2020,M05,May,374635.0,47,Tennessee,Employment
+2020,M05,May,363655.0,47,Tennessee,Employment
+2020,M06,June,307151.0,47,Tennessee,Employment
 2018,M01,January,3104315.0,47,Tennessee,Unemployment
 2018,M02,February,3109171.0,47,Tennessee,Unemployment
 2018,M03,March,3115677.0,47,Tennessee,Unemployment
@@ -1303,7 +1347,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3251528.0,47,Tennessee,Unemployment
 2020,M03,March,3262392.0,47,Tennessee,Unemployment
 2020,M04,April,2722847.0,47,Tennessee,Unemployment
-2020,M05,May,2926796.0,47,Tennessee,Unemployment
+2020,M05,May,2928570.0,47,Tennessee,Unemployment
+2020,M06,June,2861316.0,47,Tennessee,Unemployment
 2018,M01,January,4.7,22,Louisiana,Rate
 2018,M02,February,4.8,22,Louisiana,Rate
 2018,M03,March,4.9,22,Louisiana,Rate
@@ -1332,7 +1377,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,5.2,22,Louisiana,Rate
 2020,M03,March,6.7,22,Louisiana,Rate
 2020,M04,April,15.1,22,Louisiana,Rate
-2020,M05,May,13.3,22,Louisiana,Rate
+2020,M05,May,14.2,22,Louisiana,Rate
+2020,M06,June,9.7,22,Louisiana,Rate
 2018,M01,January,98302.0,22,Louisiana,Employment
 2018,M02,February,100129.0,22,Louisiana,Employment
 2018,M03,March,102476.0,22,Louisiana,Employment
@@ -1361,7 +1407,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,109854.0,22,Louisiana,Employment
 2020,M03,March,141641.0,22,Louisiana,Employment
 2020,M04,April,291286.0,22,Louisiana,Employment
-2020,M05,May,273200.0,22,Louisiana,Employment
+2020,M05,May,289495.0,22,Louisiana,Employment
+2020,M06,June,192904.0,22,Louisiana,Employment
 2018,M01,January,2008150.0,22,Louisiana,Unemployment
 2018,M02,February,2007428.0,22,Louisiana,Unemployment
 2018,M03,March,2006500.0,22,Louisiana,Unemployment
@@ -1390,7 +1437,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2000126.0,22,Louisiana,Unemployment
 2020,M03,March,1984927.0,22,Louisiana,Unemployment
 2020,M04,April,1640602.0,22,Louisiana,Unemployment
-2020,M05,May,1773301.0,22,Louisiana,Unemployment
+2020,M05,May,1742230.0,22,Louisiana,Unemployment
+2020,M06,June,1804168.0,22,Louisiana,Unemployment
 2018,M01,January,4.5,36,New York,Rate
 2018,M02,February,4.5,36,New York,Rate
 2018,M03,March,4.4,36,New York,Rate
@@ -1420,6 +1468,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,4.1,36,New York,Rate
 2020,M04,April,15.3,36,New York,Rate
 2020,M05,May,14.5,36,New York,Rate
+2020,M06,June,15.7,36,New York,Rate
 2018,M01,January,430970.0,36,New York,Employment
 2018,M02,February,425453.0,36,New York,Employment
 2018,M03,March,418918.0,36,New York,Employment
@@ -1448,7 +1497,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,354066.0,36,New York,Employment
 2020,M03,March,388738.0,36,New York,Employment
 2020,M04,April,1392274.0,36,New York,Employment
-2020,M05,May,1315995.0,36,New York,Employment
+2020,M05,May,1318631.0,36,New York,Employment
+2020,M06,June,1472619.0,36,New York,Employment
 2018,M01,January,9074847.0,36,New York,Unemployment
 2018,M02,February,9080635.0,36,New York,Unemployment
 2018,M03,March,9093681.0,36,New York,Unemployment
@@ -1477,7 +1527,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,9197589.0,36,New York,Unemployment
 2020,M03,March,9022695.0,36,New York,Unemployment
 2020,M04,April,7691738.0,36,New York,Unemployment
-2020,M05,May,7773672.0,36,New York,Unemployment
+2020,M05,May,7770529.0,36,New York,Unemployment
+2020,M06,June,7915715.0,36,New York,Unemployment
 2018,M01,January,4.5,26,Michigan,Rate
 2018,M02,February,4.4,26,Michigan,Rate
 2018,M03,March,4.4,26,Michigan,Rate
@@ -1506,7 +1557,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.6,26,Michigan,Rate
 2020,M03,March,4.3,26,Michigan,Rate
 2020,M04,April,24.0,26,Michigan,Rate
-2020,M05,May,21.2,26,Michigan,Rate
+2020,M05,May,21.3,26,Michigan,Rate
+2020,M06,June,14.8,26,Michigan,Rate
 2018,M01,January,219470.0,26,Michigan,Employment
 2018,M02,February,216435.0,26,Michigan,Employment
 2018,M03,March,213407.0,26,Michigan,Employment
@@ -1535,7 +1587,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,180318.0,26,Michigan,Employment
 2020,M03,March,208831.0,26,Michigan,Employment
 2020,M04,April,1102500.0,26,Michigan,Employment
-2020,M05,May,1006420.0,26,Michigan,Employment
+2020,M05,May,1012746.0,26,Michigan,Employment
+2020,M06,June,732038.0,26,Michigan,Employment
 2018,M01,January,4673543.0,26,Michigan,Unemployment
 2018,M02,February,4680362.0,26,Michigan,Unemployment
 2018,M03,March,4689149.0,26,Michigan,Unemployment
@@ -1564,7 +1617,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,4769868.0,26,Michigan,Unemployment
 2020,M03,March,4693677.0,26,Michigan,Unemployment
 2020,M04,April,3489020.0,26,Michigan,Unemployment
-2020,M05,May,3744848.0,26,Michigan,Unemployment
+2020,M05,May,3749795.0,26,Michigan,Unemployment
+2020,M06,June,4213987.0,26,Michigan,Unemployment
 2018,M01,January,3.0,16,Idaho,Rate
 2018,M02,February,3.0,16,Idaho,Rate
 2018,M03,March,3.0,16,Idaho,Rate
@@ -1593,7 +1647,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.7,16,Idaho,Rate
 2020,M03,March,2.5,16,Idaho,Rate
 2020,M04,April,11.8,16,Idaho,Rate
-2020,M05,May,8.9,16,Idaho,Rate
+2020,M05,May,9.0,16,Idaho,Rate
+2020,M06,June,5.6,16,Idaho,Rate
 2018,M01,January,25566.0,16,Idaho,Employment
 2018,M02,February,25425.0,16,Idaho,Employment
 2018,M03,March,25276.0,16,Idaho,Employment
@@ -1622,7 +1677,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,23839.0,16,Idaho,Employment
 2020,M03,March,21974.0,16,Idaho,Employment
 2020,M04,April,104291.0,16,Idaho,Employment
-2020,M05,May,79015.0,16,Idaho,Employment
+2020,M05,May,79228.0,16,Idaho,Employment
+2020,M06,June,50267.0,16,Idaho,Employment
 2018,M01,January,821121.0,16,Idaho,Unemployment
 2018,M02,February,823187.0,16,Idaho,Unemployment
 2018,M03,March,825346.0,16,Idaho,Unemployment
@@ -1651,7 +1707,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,867822.0,16,Idaho,Unemployment
 2020,M03,March,872658.0,16,Idaho,Unemployment
 2020,M04,April,781553.0,16,Idaho,Unemployment
-2020,M05,May,804643.0,16,Idaho,Unemployment
+2020,M05,May,803013.0,16,Idaho,Unemployment
+2020,M06,June,841898.0,16,Idaho,Unemployment
 2018,M01,January,3.9,12,Florida,Rate
 2018,M02,February,3.9,12,Florida,Rate
 2018,M03,March,3.8,12,Florida,Rate
@@ -1680,7 +1737,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.8,12,Florida,Rate
 2020,M03,March,4.4,12,Florida,Rate
 2020,M04,April,13.8,12,Florida,Rate
-2020,M05,May,14.5,12,Florida,Rate
+2020,M05,May,13.7,12,Florida,Rate
+2020,M06,June,10.4,12,Florida,Rate
 2018,M01,January,394510.0,12,Florida,Employment
 2018,M02,February,389858.0,12,Florida,Employment
 2018,M03,March,384850.0,12,Florida,Employment
@@ -1709,7 +1767,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,290724.0,12,Florida,Employment
 2020,M03,March,457308.0,12,Florida,Employment
 2020,M04,April,1305832.0,12,Florida,Employment
-2020,M05,May,1412370.0,12,Florida,Employment
+2020,M05,May,1319309.0,12,Florida,Employment
+2020,M06,June,1020689.0,12,Florida,Employment
 2018,M01,January,9715663.0,12,Florida,Unemployment
 2018,M02,February,9733243.0,12,Florida,Unemployment
 2018,M03,March,9753654.0,12,Florida,Unemployment
@@ -1738,7 +1797,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,10164675.0,12,Florida,Unemployment
 2020,M03,March,9873877.0,12,Florida,Unemployment
 2020,M04,April,8166411.0,12,Florida,Unemployment
-2020,M05,May,8296757.0,12,Florida,Unemployment
+2020,M05,May,8308051.0,12,Florida,Unemployment
+2020,M06,June,8749302.0,12,Florida,Unemployment
 2018,M01,January,6.7,02,Alaska,Rate
 2018,M02,February,6.7,02,Alaska,Rate
 2018,M03,March,6.6,02,Alaska,Rate
@@ -1767,7 +1827,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,5.8,02,Alaska,Rate
 2020,M03,March,5.2,02,Alaska,Rate
 2020,M04,April,13.5,02,Alaska,Rate
-2020,M05,May,12.6,02,Alaska,Rate
+2020,M05,May,12.7,02,Alaska,Rate
+2020,M06,June,12.4,02,Alaska,Rate
 2018,M01,January,23955.0,02,Alaska,Employment
 2018,M02,February,23723.0,02,Alaska,Employment
 2018,M03,March,23496.0,02,Alaska,Employment
@@ -1796,7 +1857,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,20095.0,02,Alaska,Employment
 2020,M03,March,18015.0,02,Alaska,Employment
 2020,M04,April,45776.0,02,Alaska,Employment
-2020,M05,May,42042.0,02,Alaska,Employment
+2020,M05,May,42378.0,02,Alaska,Employment
+2020,M06,June,42538.0,02,Alaska,Employment
 2018,M01,January,331874.0,02,Alaska,Unemployment
 2018,M02,February,331455.0,02,Alaska,Unemployment
 2018,M03,March,331070.0,02,Alaska,Unemployment
@@ -1825,7 +1887,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,325323.0,02,Alaska,Unemployment
 2020,M03,March,326251.0,02,Alaska,Unemployment
 2020,M04,April,293448.0,02,Alaska,Unemployment
-2020,M05,May,291045.0,02,Alaska,Unemployment
+2020,M05,May,291016.0,02,Alaska,Unemployment
+2020,M06,June,300818.0,02,Alaska,Unemployment
 2018,M01,January,4.5,17,Illinois,Rate
 2018,M02,February,4.4,17,Illinois,Rate
 2018,M03,March,4.4,17,Illinois,Rate
@@ -1854,7 +1917,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.4,17,Illinois,Rate
 2020,M03,March,4.2,17,Illinois,Rate
 2020,M04,April,17.2,17,Illinois,Rate
-2020,M05,May,15.2,17,Illinois,Rate
+2020,M05,May,15.3,17,Illinois,Rate
+2020,M06,June,14.6,17,Illinois,Rate
 2018,M01,January,287902.0,17,Illinois,Employment
 2018,M02,February,283689.0,17,Illinois,Employment
 2018,M03,March,281780.0,17,Illinois,Employment
@@ -1883,7 +1947,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,218785.0,17,Illinois,Employment
 2020,M03,March,264127.0,17,Illinois,Employment
 2020,M04,April,1050375.0,17,Illinois,Employment
-2020,M05,May,955124.0,17,Illinois,Employment
+2020,M05,May,967035.0,17,Illinois,Employment
+2020,M06,June,946371.0,17,Illinois,Employment
 2018,M01,January,6176211.0,17,Illinois,Unemployment
 2018,M02,February,6179396.0,17,Illinois,Unemployment
 2018,M03,March,6182845.0,17,Illinois,Unemployment
@@ -1912,7 +1977,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,6179880.0,17,Illinois,Unemployment
 2020,M03,March,6030123.0,17,Illinois,Unemployment
 2020,M04,April,5072987.0,17,Illinois,Unemployment
-2020,M05,May,5331699.0,17,Illinois,Unemployment
+2020,M05,May,5337980.0,17,Illinois,Unemployment
+2020,M06,June,5541540.0,17,Illinois,Unemployment
 2018,M01,January,3.8,30,Montana,Rate
 2018,M02,February,3.8,30,Montana,Rate
 2018,M03,March,3.7,30,Montana,Rate
@@ -1942,6 +2008,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,3.6,30,Montana,Rate
 2020,M04,April,11.9,30,Montana,Rate
 2020,M05,May,9.0,30,Montana,Rate
+2020,M06,June,7.1,30,Montana,Rate
 2018,M01,January,20068.0,30,Montana,Employment
 2018,M02,February,19868.0,30,Montana,Employment
 2018,M03,March,19683.0,30,Montana,Employment
@@ -1970,7 +2037,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,18694.0,30,Montana,Employment
 2020,M03,March,19218.0,30,Montana,Employment
 2020,M04,April,62181.0,30,Montana,Employment
-2020,M05,May,46866.0,30,Montana,Employment
+2020,M05,May,47259.0,30,Montana,Employment
+2020,M06,June,38064.0,30,Montana,Employment
 2018,M01,January,506795.0,30,Montana,Unemployment
 2018,M02,February,507281.0,30,Montana,Unemployment
 2018,M03,March,507839.0,30,Montana,Unemployment
@@ -1999,7 +2067,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,518642.0,30,Montana,Unemployment
 2020,M03,March,519559.0,30,Montana,Unemployment
 2020,M04,April,458407.0,30,Montana,Unemployment
-2020,M05,May,475188.0,30,Montana,Unemployment
+2020,M05,May,476592.0,30,Montana,Unemployment
+2020,M06,June,497584.0,30,Montana,Unemployment
 2018,M01,January,3.0,27,Minnesota,Rate
 2018,M02,February,3.0,27,Minnesota,Rate
 2018,M03,March,3.0,27,Minnesota,Rate
@@ -2029,6 +2098,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,2.9,27,Minnesota,Rate
 2020,M04,April,8.7,27,Minnesota,Rate
 2020,M05,May,9.9,27,Minnesota,Rate
+2020,M06,June,8.6,27,Minnesota,Rate
 2018,M01,January,93058.0,27,Minnesota,Employment
 2018,M02,February,92363.0,27,Minnesota,Employment
 2018,M03,March,91672.0,27,Minnesota,Employment
@@ -2057,7 +2127,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,96125.0,27,Minnesota,Employment
 2020,M03,March,88826.0,27,Minnesota,Employment
 2020,M04,April,266971.0,27,Minnesota,Employment
-2020,M05,May,302741.0,27,Minnesota,Employment
+2020,M05,May,302966.0,27,Minnesota,Employment
+2020,M06,June,267526.0,27,Minnesota,Employment
 2018,M01,January,2968564.0,27,Minnesota,Unemployment
 2018,M02,February,2970767.0,27,Minnesota,Unemployment
 2018,M03,March,2973525.0,27,Minnesota,Unemployment
@@ -2086,7 +2157,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3025204.0,27,Minnesota,Unemployment
 2020,M03,March,3005502.0,27,Minnesota,Unemployment
 2020,M04,April,2799493.0,27,Minnesota,Unemployment
-2020,M05,May,2765258.0,27,Minnesota,Unemployment
+2020,M05,May,2766978.0,27,Minnesota,Unemployment
+2020,M06,June,2848800.0,27,Minnesota,Unemployment
 2018,M01,January,4.2,24,Maryland,Rate
 2018,M02,February,4.1,24,Maryland,Rate
 2018,M03,March,4.1,24,Maryland,Rate
@@ -2115,7 +2187,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.3,24,Maryland,Rate
 2020,M03,March,3.3,24,Maryland,Rate
 2020,M04,April,10.1,24,Maryland,Rate
-2020,M05,May,9.9,24,Maryland,Rate
+2020,M05,May,10.0,24,Maryland,Rate
+2020,M06,June,8.0,24,Maryland,Rate
 2018,M01,January,134030.0,24,Maryland,Employment
 2018,M02,February,133137.0,24,Maryland,Employment
 2018,M03,March,132067.0,24,Maryland,Employment
@@ -2144,7 +2217,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,107394.0,24,Maryland,Employment
 2020,M03,March,109315.0,24,Maryland,Employment
 2020,M04,April,315798.0,24,Maryland,Employment
-2020,M05,May,308388.0,24,Maryland,Employment
+2020,M05,May,310148.0,24,Maryland,Employment
+2020,M06,June,257762.0,24,Maryland,Employment
 2018,M01,January,3077302.0,24,Maryland,Unemployment
 2018,M02,February,3079632.0,24,Maryland,Unemployment
 2018,M03,March,3082972.0,24,Maryland,Unemployment
@@ -2173,7 +2247,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3172883.0,24,Maryland,Unemployment
 2020,M03,March,3175393.0,24,Maryland,Unemployment
 2020,M04,April,2796592.0,24,Maryland,Unemployment
-2020,M05,May,2804242.0,24,Maryland,Unemployment
+2020,M05,May,2804911.0,24,Maryland,Unemployment
+2020,M06,June,2944947.0,24,Maryland,Unemployment
 2018,M01,January,2.8,19,Iowa,Rate
 2018,M02,February,2.8,19,Iowa,Rate
 2018,M03,March,2.7,19,Iowa,Rate
@@ -2202,7 +2277,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.8,19,Iowa,Rate
 2020,M03,March,3.3,19,Iowa,Rate
 2020,M04,April,11.0,19,Iowa,Rate
-2020,M05,May,10.0,19,Iowa,Rate
+2020,M05,May,10.2,19,Iowa,Rate
+2020,M06,June,8.0,19,Iowa,Rate
 2018,M01,January,46857.0,19,Iowa,Employment
 2018,M02,February,46330.0,19,Iowa,Employment
 2018,M03,March,45774.0,19,Iowa,Employment
@@ -2231,7 +2307,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,49270.0,19,Iowa,Employment
 2020,M03,March,56574.0,19,Iowa,Employment
 2020,M04,April,188007.0,19,Iowa,Employment
-2020,M05,May,168081.0,19,Iowa,Employment
+2020,M05,May,172971.0,19,Iowa,Employment
+2020,M06,June,131164.0,19,Iowa,Employment
 2018,M01,January,1627347.0,19,Iowa,Unemployment
 2018,M02,February,1630983.0,19,Iowa,Unemployment
 2018,M03,March,1634987.0,19,Iowa,Unemployment
@@ -2260,7 +2337,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,1703351.0,19,Iowa,Unemployment
 2020,M03,March,1665444.0,19,Iowa,Unemployment
 2020,M04,April,1524636.0,19,Iowa,Unemployment
-2020,M05,May,1520029.0,19,Iowa,Unemployment
+2020,M05,May,1521154.0,19,Iowa,Unemployment
+2020,M06,June,1508262.0,19,Iowa,Unemployment
 2018,M01,January,4.1,10,Delaware,Rate
 2018,M02,February,4.1,10,Delaware,Rate
 2018,M03,March,4.0,10,Delaware,Rate
@@ -2289,7 +2367,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.9,10,Delaware,Rate
 2020,M03,March,5.0,10,Delaware,Rate
 2020,M04,April,14.9,10,Delaware,Rate
-2020,M05,May,15.8,10,Delaware,Rate
+2020,M05,May,15.9,10,Delaware,Rate
+2020,M06,June,12.5,10,Delaware,Rate
 2018,M01,January,19831.0,10,Delaware,Employment
 2018,M02,February,19474.0,10,Delaware,Employment
 2018,M03,March,19126.0,10,Delaware,Employment
@@ -2318,7 +2397,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,19233.0,10,Delaware,Employment
 2020,M03,March,23764.0,10,Delaware,Employment
 2020,M04,April,69285.0,10,Delaware,Employment
-2020,M05,May,74838.0,10,Delaware,Employment
+2020,M05,May,74929.0,10,Delaware,Employment
+2020,M06,June,61044.0,10,Delaware,Employment
 2018,M01,January,459416.0,10,Delaware,Unemployment
 2018,M02,February,460368.0,10,Delaware,Unemployment
 2018,M03,March,461344.0,10,Delaware,Unemployment
@@ -2347,7 +2427,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,470043.0,10,Delaware,Unemployment
 2020,M03,March,453613.0,10,Delaware,Unemployment
 2020,M04,April,394223.0,10,Delaware,Unemployment
-2020,M05,May,397653.0,10,Delaware,Unemployment
+2020,M05,May,397743.0,10,Delaware,Unemployment
+2020,M06,June,426815.0,10,Delaware,Unemployment
 2018,M01,January,2.9,31,Nebraska,Rate
 2018,M02,February,2.9,31,Nebraska,Rate
 2018,M03,March,2.9,31,Nebraska,Rate
@@ -2376,7 +2457,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.9,31,Nebraska,Rate
 2020,M03,March,4.0,31,Nebraska,Rate
 2020,M04,April,8.7,31,Nebraska,Rate
-2020,M05,May,5.2,31,Nebraska,Rate
+2020,M05,May,5.3,31,Nebraska,Rate
+2020,M06,June,6.7,31,Nebraska,Rate
 2018,M01,January,29644.0,31,Nebraska,Employment
 2018,M02,February,29729.0,31,Nebraska,Employment
 2018,M03,March,29771.0,31,Nebraska,Employment
@@ -2405,7 +2487,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,30016.0,31,Nebraska,Employment
 2020,M03,March,42628.0,31,Nebraska,Employment
 2020,M04,April,92638.0,31,Nebraska,Employment
-2020,M05,May,54879.0,31,Nebraska,Employment
+2020,M05,May,54822.0,31,Nebraska,Employment
+2020,M06,June,70646.0,31,Nebraska,Employment
 2018,M01,January,987524.0,31,Nebraska,Unemployment
 2018,M02,February,988614.0,31,Nebraska,Unemployment
 2018,M03,March,989813.0,31,Nebraska,Unemployment
@@ -2434,7 +2517,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,1012433.0,31,Nebraska,Unemployment
 2020,M03,March,1019925.0,31,Nebraska,Unemployment
 2020,M04,April,966909.0,31,Nebraska,Unemployment
-2020,M05,May,998329.0,31,Nebraska,Unemployment
+2020,M05,May,976313.0,31,Nebraska,Unemployment
+2020,M06,June,986494.0,31,Nebraska,Unemployment
 2018,M01,January,5.4,54,West Virginia,Rate
 2018,M02,February,5.4,54,West Virginia,Rate
 2018,M03,March,5.4,54,West Virginia,Rate
@@ -2464,6 +2548,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,6.0,54,West Virginia,Rate
 2020,M04,April,15.9,54,West Virginia,Rate
 2020,M05,May,12.9,54,West Virginia,Rate
+2020,M06,June,10.4,54,West Virginia,Rate
 2018,M01,January,42255.0,54,West Virginia,Employment
 2018,M02,February,42438.0,54,West Virginia,Employment
 2018,M03,March,42446.0,54,West Virginia,Employment
@@ -2492,7 +2577,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,39743.0,54,West Virginia,Employment
 2020,M03,March,49712.0,54,West Virginia,Employment
 2020,M04,April,123839.0,54,West Virginia,Employment
-2020,M05,May,100440.0,54,West Virginia,Employment
+2020,M05,May,100757.0,54,West Virginia,Employment
+2020,M06,June,79419.0,54,West Virginia,Employment
 2018,M01,January,739607.0,54,West Virginia,Unemployment
 2018,M02,February,740125.0,54,West Virginia,Unemployment
 2018,M03,March,740960.0,54,West Virginia,Unemployment
@@ -2521,7 +2607,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,766827.0,54,West Virginia,Unemployment
 2020,M03,March,773588.0,54,West Virginia,Unemployment
 2020,M04,April,652883.0,54,West Virginia,Unemployment
-2020,M05,May,679169.0,54,West Virginia,Unemployment
+2020,M05,May,679272.0,54,West Virginia,Unemployment
+2020,M06,June,684835.0,54,West Virginia,Unemployment
 2018,M01,January,3.3,18,Indiana,Rate
 2018,M02,February,3.3,18,Indiana,Rate
 2018,M03,March,3.4,18,Indiana,Rate
@@ -2551,6 +2638,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,3.0,18,Indiana,Rate
 2020,M04,April,17.5,18,Indiana,Rate
 2020,M05,May,12.3,18,Indiana,Rate
+2020,M06,June,11.2,18,Indiana,Rate
 2018,M01,January,110639.0,18,Indiana,Employment
 2018,M02,February,112120.0,18,Indiana,Employment
 2018,M03,March,114901.0,18,Indiana,Employment
@@ -2579,7 +2667,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,105189.0,18,Indiana,Employment
 2020,M03,March,99892.0,18,Indiana,Employment
 2020,M04,April,565822.0,18,Indiana,Employment
-2020,M05,May,408919.0,18,Indiana,Employment
+2020,M05,May,409414.0,18,Indiana,Employment
+2020,M06,June,380667.0,18,Indiana,Employment
 2018,M01,January,3238977.0,18,Indiana,Unemployment
 2018,M02,February,3244966.0,18,Indiana,Unemployment
 2018,M03,March,3251915.0,18,Indiana,Unemployment
@@ -2608,7 +2697,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3291040.0,18,Indiana,Unemployment
 2020,M03,March,3177786.0,18,Indiana,Unemployment
 2020,M04,April,2660808.0,18,Indiana,Unemployment
-2020,M05,May,2928491.0,18,Indiana,Unemployment
+2020,M05,May,2930891.0,18,Indiana,Unemployment
+2020,M06,June,3013122.0,18,Indiana,Unemployment
 2018,M01,January,3.6,25,Massachusetts,Rate
 2018,M02,February,3.5,25,Massachusetts,Rate
 2018,M03,March,3.5,25,Massachusetts,Rate
@@ -2637,7 +2727,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.8,25,Massachusetts,Rate
 2020,M03,March,2.8,25,Massachusetts,Rate
 2020,M04,April,16.2,25,Massachusetts,Rate
-2020,M05,May,16.3,25,Massachusetts,Rate
+2020,M05,May,16.6,25,Massachusetts,Rate
+2020,M06,June,17.4,25,Massachusetts,Rate
 2018,M01,January,133400.0,25,Massachusetts,Employment
 2018,M02,February,132745.0,25,Massachusetts,Employment
 2018,M03,March,132134.0,25,Massachusetts,Employment
@@ -2666,7 +2757,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,106572.0,25,Massachusetts,Employment
 2020,M03,March,106920.0,25,Massachusetts,Employment
 2020,M04,April,552934.0,25,Massachusetts,Employment
-2020,M05,May,576132.0,25,Massachusetts,Employment
+2020,M05,May,586460.0,25,Massachusetts,Employment
+2020,M06,June,638068.0,25,Massachusetts,Employment
 2018,M01,January,3602886.0,25,Massachusetts,Unemployment
 2018,M02,February,3616193.0,25,Massachusetts,Unemployment
 2018,M03,March,3629933.0,25,Massachusetts,Unemployment
@@ -2695,7 +2787,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3728255.0,25,Massachusetts,Unemployment
 2020,M03,March,3665047.0,25,Massachusetts,Unemployment
 2020,M04,April,2853941.0,25,Massachusetts,Unemployment
-2020,M05,May,2953936.0,25,Massachusetts,Unemployment
+2020,M05,May,2954413.0,25,Massachusetts,Unemployment
+2020,M06,June,3033620.0,25,Massachusetts,Unemployment
 2018,M01,January,4.6,42,Pennsylvania,Rate
 2018,M02,February,4.5,42,Pennsylvania,Rate
 2018,M03,March,4.4,42,Pennsylvania,Rate
@@ -2724,7 +2817,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,4.7,42,Pennsylvania,Rate
 2020,M03,March,5.8,42,Pennsylvania,Rate
 2020,M04,April,16.1,42,Pennsylvania,Rate
-2020,M05,May,13.1,42,Pennsylvania,Rate
+2020,M05,May,13.4,42,Pennsylvania,Rate
+2020,M06,June,13.0,42,Pennsylvania,Rate
 2018,M01,January,291677.0,42,Pennsylvania,Employment
 2018,M02,February,286404.0,42,Pennsylvania,Employment
 2018,M03,March,281228.0,42,Pennsylvania,Employment
@@ -2753,7 +2847,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,309028.0,42,Pennsylvania,Employment
 2020,M03,March,379490.0,42,Pennsylvania,Employment
 2020,M04,April,1037087.0,42,Pennsylvania,Employment
-2020,M05,May,849042.0,42,Pennsylvania,Employment
+2020,M05,May,874075.0,42,Pennsylvania,Employment
+2020,M06,June,821257.0,42,Pennsylvania,Employment
 2018,M01,January,6110928.0,42,Pennsylvania,Unemployment
 2018,M02,February,6116640.0,42,Pennsylvania,Unemployment
 2018,M03,March,6125296.0,42,Pennsylvania,Unemployment
@@ -2782,7 +2877,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,6249391.0,42,Pennsylvania,Unemployment
 2020,M03,March,6163426.0,42,Pennsylvania,Unemployment
 2020,M04,April,5410390.0,42,Pennsylvania,Unemployment
-2020,M05,May,5621308.0,42,Pennsylvania,Unemployment
+2020,M05,May,5628460.0,42,Pennsylvania,Unemployment
+2020,M06,June,5507111.0,42,Pennsylvania,Unemployment
 2018,M01,January,4.9,28,Mississippi,Rate
 2018,M02,February,4.9,28,Mississippi,Rate
 2018,M03,March,4.9,28,Mississippi,Rate
@@ -2811,7 +2907,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,5.4,28,Mississippi,Rate
 2020,M03,March,5.1,28,Mississippi,Rate
 2020,M04,April,16.3,28,Mississippi,Rate
-2020,M05,May,10.6,28,Mississippi,Rate
+2020,M05,May,10.5,28,Mississippi,Rate
+2020,M06,June,8.7,28,Mississippi,Rate
 2018,M01,January,61715.0,28,Mississippi,Employment
 2018,M02,February,61771.0,28,Mississippi,Employment
 2018,M03,March,61788.0,28,Mississippi,Employment
@@ -2840,7 +2937,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,68464.0,28,Mississippi,Employment
 2020,M03,March,64286.0,28,Mississippi,Employment
 2020,M04,April,195429.0,28,Mississippi,Employment
-2020,M05,May,128490.0,28,Mississippi,Employment
+2020,M05,May,126587.0,28,Mississippi,Employment
+2020,M06,June,103673.0,28,Mississippi,Employment
 2018,M01,January,1209764.0,28,Mississippi,Unemployment
 2018,M02,February,1209516.0,28,Mississippi,Unemployment
 2018,M03,March,1209652.0,28,Mississippi,Unemployment
@@ -2869,7 +2967,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,1207994.0,28,Mississippi,Unemployment
 2020,M03,March,1202803.0,28,Mississippi,Unemployment
 2020,M04,April,1002464.0,28,Mississippi,Unemployment
-2020,M05,May,1080750.0,28,Mississippi,Unemployment
+2020,M05,May,1082280.0,28,Mississippi,Unemployment
+2020,M06,June,1089875.0,28,Mississippi,Unemployment
 2018,M01,January,3.0,08,Colorado,Rate
 2018,M02,February,3.0,08,Colorado,Rate
 2018,M03,March,3.0,08,Colorado,Rate
@@ -2899,6 +2998,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,5.2,08,Colorado,Rate
 2020,M04,April,12.2,08,Colorado,Rate
 2020,M05,May,10.2,08,Colorado,Rate
+2020,M06,June,10.5,08,Colorado,Rate
 2018,M01,January,89846.0,08,Colorado,Employment
 2018,M02,February,90890.0,08,Colorado,Employment
 2018,M03,March,92339.0,08,Colorado,Employment
@@ -2927,7 +3027,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,80264.0,08,Colorado,Employment
 2020,M03,March,164027.0,08,Colorado,Employment
 2020,M04,April,373643.0,08,Colorado,Employment
-2020,M05,May,312426.0,08,Colorado,Employment
+2020,M05,May,313656.0,08,Colorado,Employment
+2020,M06,June,333747.0,08,Colorado,Employment
 2018,M01,January,2949910.0,08,Colorado,Unemployment
 2018,M02,February,2957429.0,08,Colorado,Unemployment
 2018,M03,March,2965268.0,08,Colorado,Unemployment
@@ -2956,7 +3057,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3106077.0,08,Colorado,Unemployment
 2020,M03,March,2972506.0,08,Colorado,Unemployment
 2020,M04,April,2681128.0,08,Colorado,Unemployment
-2020,M05,May,2750744.0,08,Colorado,Unemployment
+2020,M05,May,2755457.0,08,Colorado,Unemployment
+2020,M06,June,2835529.0,08,Colorado,Unemployment
 2018,M01,January,3.4,20,Kansas,Rate
 2018,M02,February,3.4,20,Kansas,Rate
 2018,M03,March,3.4,20,Kansas,Rate
@@ -2986,6 +3088,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,2.8,20,Kansas,Rate
 2020,M04,April,11.9,20,Kansas,Rate
 2020,M05,May,10.0,20,Kansas,Rate
+2020,M06,June,7.5,20,Kansas,Rate
 2018,M01,January,50597.0,20,Kansas,Employment
 2018,M02,February,50242.0,20,Kansas,Employment
 2018,M03,March,49838.0,20,Kansas,Employment
@@ -3014,7 +3117,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,46789.0,20,Kansas,Employment
 2020,M03,March,42644.0,20,Kansas,Employment
 2020,M04,April,179494.0,20,Kansas,Employment
-2020,M05,May,150561.0,20,Kansas,Employment
+2020,M05,May,151293.0,20,Kansas,Employment
+2020,M06,June,110801.0,20,Kansas,Employment
 2018,M01,January,1423709.0,20,Kansas,Unemployment
 2018,M02,February,1424710.0,20,Kansas,Unemployment
 2018,M03,March,1426026.0,20,Kansas,Unemployment
@@ -3043,7 +3147,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,1449736.0,20,Kansas,Unemployment
 2020,M03,March,1465907.0,20,Kansas,Unemployment
 2020,M04,April,1324012.0,20,Kansas,Unemployment
-2020,M05,May,1354699.0,20,Kansas,Unemployment
+2020,M05,May,1354535.0,20,Kansas,Unemployment
+2020,M06,June,1369711.0,20,Kansas,Unemployment
 2018,M01,January,4.7,32,Nevada,Rate
 2018,M02,February,4.7,32,Nevada,Rate
 2018,M03,March,4.6,32,Nevada,Rate
@@ -3073,6 +3178,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,6.9,32,Nevada,Rate
 2020,M04,April,30.1,32,Nevada,Rate
 2020,M05,May,25.3,32,Nevada,Rate
+2020,M06,June,15.0,32,Nevada,Rate
 2018,M01,January,70261.0,32,Nevada,Employment
 2018,M02,February,69581.0,32,Nevada,Employment
 2018,M03,March,68798.0,32,Nevada,Employment
@@ -3101,7 +3207,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,56205.0,32,Nevada,Employment
 2020,M03,March,107760.0,32,Nevada,Employment
 2020,M04,April,429746.0,32,Nevada,Employment
-2020,M05,May,350822.0,32,Nevada,Employment
+2020,M05,May,349545.0,32,Nevada,Employment
+2020,M06,June,224673.0,32,Nevada,Employment
 2018,M01,January,1413172.0,32,Nevada,Unemployment
 2018,M02,February,1417368.0,32,Nevada,Unemployment
 2018,M03,March,1421680.0,32,Nevada,Unemployment
@@ -3130,7 +3237,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,1503339.0,32,Nevada,Unemployment
 2020,M03,March,1458457.0,32,Nevada,Unemployment
 2020,M04,April,999349.0,32,Nevada,Unemployment
-2020,M05,May,1033912.0,32,Nevada,Unemployment
+2020,M05,May,1033264.0,32,Nevada,Unemployment
+2020,M06,June,1273699.0,32,Nevada,Unemployment
 2018,M01,January,2.7,50,Vermont,Rate
 2018,M02,February,2.7,50,Vermont,Rate
 2018,M03,March,2.7,50,Vermont,Rate
@@ -3159,7 +3267,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.4,50,Vermont,Rate
 2020,M03,March,3.1,50,Vermont,Rate
 2020,M04,April,16.5,50,Vermont,Rate
-2020,M05,May,12.7,50,Vermont,Rate
+2020,M05,May,12.8,50,Vermont,Rate
+2020,M06,June,9.4,50,Vermont,Rate
 2018,M01,January,9355.0,50,Vermont,Employment
 2018,M02,February,9263.0,50,Vermont,Employment
 2018,M03,March,9183.0,50,Vermont,Employment
@@ -3188,7 +3297,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,8195.0,50,Vermont,Employment
 2020,M03,March,10523.0,50,Vermont,Employment
 2020,M04,April,57905.0,50,Vermont,Employment
-2020,M05,May,43744.0,50,Vermont,Employment
+2020,M05,May,44150.0,50,Vermont,Employment
+2020,M06,June,32021.0,50,Vermont,Employment
 2018,M01,January,336887.0,50,Vermont,Unemployment
 2018,M02,February,336893.0,50,Vermont,Unemployment
 2018,M03,March,336880.0,50,Vermont,Unemployment
@@ -3217,7 +3327,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,331947.0,50,Vermont,Unemployment
 2020,M03,March,330084.0,50,Vermont,Unemployment
 2020,M04,April,293039.0,50,Vermont,Unemployment
-2020,M05,May,299455.0,50,Vermont,Unemployment
+2020,M05,May,299688.0,50,Vermont,Unemployment
+2020,M06,June,309447.0,50,Vermont,Unemployment
 2018,M01,January,4.5,09,Connecticut,Rate
 2018,M02,February,4.5,09,Connecticut,Rate
 2018,M03,March,4.4,09,Connecticut,Rate
@@ -3246,7 +3357,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.8,09,Connecticut,Rate
 2020,M03,March,3.4,09,Connecticut,Rate
 2020,M04,April,8.3,09,Connecticut,Rate
-2020,M05,May,9.4,09,Connecticut,Rate
+2020,M05,May,9.6,09,Connecticut,Rate
+2020,M06,June,9.8,09,Connecticut,Rate
 2018,M01,January,85413.0,09,Connecticut,Employment
 2018,M02,February,84353.0,09,Connecticut,Employment
 2018,M03,March,83108.0,09,Connecticut,Employment
@@ -3275,7 +3387,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,72581.0,09,Connecticut,Employment
 2020,M03,March,65620.0,09,Connecticut,Employment
 2020,M04,April,147338.0,09,Connecticut,Employment
-2020,M05,May,166338.0,09,Connecticut,Employment
+2020,M05,May,170307.0,09,Connecticut,Employment
+2020,M06,June,183205.0,09,Connecticut,Employment
 2018,M01,January,1802920.0,09,Connecticut,Unemployment
 2018,M02,February,1805271.0,09,Connecticut,Unemployment
 2018,M03,March,1808623.0,09,Connecticut,Unemployment
@@ -3304,7 +3417,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,1857872.0,09,Connecticut,Unemployment
 2020,M03,March,1865216.0,09,Connecticut,Unemployment
 2020,M04,April,1629265.0,09,Connecticut,Unemployment
-2020,M05,May,1604214.0,09,Connecticut,Unemployment
+2020,M05,May,1606697.0,09,Connecticut,Unemployment
+2020,M06,June,1686566.0,09,Connecticut,Unemployment
 2018,M01,January,4.5,34,New Jersey,Rate
 2018,M02,February,4.5,34,New Jersey,Rate
 2018,M03,March,4.4,34,New Jersey,Rate
@@ -3333,7 +3447,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.8,34,New Jersey,Rate
 2020,M03,March,3.7,34,New Jersey,Rate
 2020,M04,April,16.3,34,New Jersey,Rate
-2020,M05,May,15.2,34,New Jersey,Rate
+2020,M05,May,15.4,34,New Jersey,Rate
+2020,M06,June,16.6,34,New Jersey,Rate
 2018,M01,January,200932.0,34,New Jersey,Employment
 2018,M02,February,197613.0,34,New Jersey,Employment
 2018,M03,March,194603.0,34,New Jersey,Employment
@@ -3362,7 +3477,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,173873.0,34,New Jersey,Employment
 2020,M03,March,168368.0,34,New Jersey,Employment
 2020,M04,April,731905.0,34,New Jersey,Employment
-2020,M05,May,688921.0,34,New Jersey,Employment
+2020,M05,May,695717.0,34,New Jersey,Employment
+2020,M06,June,751324.0,34,New Jersey,Employment
 2018,M01,January,4228216.0,34,New Jersey,Unemployment
 2018,M02,February,4229220.0,34,New Jersey,Unemployment
 2018,M03,March,4232626.0,34,New Jersey,Unemployment
@@ -3391,7 +3507,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,4390255.0,34,New Jersey,Unemployment
 2020,M03,March,4419828.0,34,New Jersey,Unemployment
 2020,M04,April,3751422.0,34,New Jersey,Unemployment
-2020,M05,May,3833148.0,34,New Jersey,Unemployment
+2020,M05,May,3835528.0,34,New Jersey,Unemployment
+2020,M06,June,3774660.0,34,New Jersey,Unemployment
 2018,M01,January,5.8,11,District of Columbia,Rate
 2018,M02,February,5.8,11,District of Columbia,Rate
 2018,M03,March,5.8,11,District of Columbia,Rate
@@ -3420,7 +3537,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,5.1,11,District of Columbia,Rate
 2020,M03,March,6.0,11,District of Columbia,Rate
 2020,M04,April,11.7,11,District of Columbia,Rate
-2020,M05,May,8.9,11,District of Columbia,Rate
+2020,M05,May,8.8,11,District of Columbia,Rate
+2020,M06,June,8.6,11,District of Columbia,Rate
 2018,M01,January,23366.0,11,District of Columbia,Employment
 2018,M02,February,23324.0,11,District of Columbia,Employment
 2018,M03,March,23327.0,11,District of Columbia,Employment
@@ -3449,7 +3567,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,21337.0,11,District of Columbia,Employment
 2020,M03,March,25431.0,11,District of Columbia,Employment
 2020,M04,April,46998.0,11,District of Columbia,Employment
-2020,M05,May,34303.0,11,District of Columbia,Employment
+2020,M05,May,34026.0,11,District of Columbia,Employment
+2020,M06,June,33916.0,11,District of Columbia,Employment
 2018,M01,January,380575.0,11,District of Columbia,Unemployment
 2018,M02,February,381242.0,11,District of Columbia,Unemployment
 2018,M03,March,381752.0,11,District of Columbia,Unemployment
@@ -3478,7 +3597,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,393016.0,11,District of Columbia,Unemployment
 2020,M03,March,395074.0,11,District of Columbia,Unemployment
 2020,M04,April,355455.0,11,District of Columbia,Unemployment
-2020,M05,May,353225.0,11,District of Columbia,Unemployment
+2020,M05,May,353764.0,11,District of Columbia,Unemployment
+2020,M06,June,361033.0,11,District of Columbia,Unemployment
 2018,M01,January,2.7,38,North Dakota,Rate
 2018,M02,February,2.7,38,North Dakota,Rate
 2018,M03,March,2.7,38,North Dakota,Rate
@@ -3508,6 +3628,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,2.0,38,North Dakota,Rate
 2020,M04,April,9.1,38,North Dakota,Rate
 2020,M05,May,9.1,38,North Dakota,Rate
+2020,M06,June,6.1,38,North Dakota,Rate
 2018,M01,January,10935.0,38,North Dakota,Employment
 2018,M02,February,10870.0,38,North Dakota,Employment
 2018,M03,March,10789.0,38,North Dakota,Employment
@@ -3536,7 +3657,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,9037.0,38,North Dakota,Employment
 2020,M03,March,8125.0,38,North Dakota,Employment
 2020,M04,April,36905.0,38,North Dakota,Employment
-2020,M05,May,36418.0,38,North Dakota,Employment
+2020,M05,May,36540.0,38,North Dakota,Employment
+2020,M06,June,24342.0,38,North Dakota,Employment
 2018,M01,January,395224.0,38,North Dakota,Unemployment
 2018,M02,February,394685.0,38,North Dakota,Unemployment
 2018,M03,March,394168.0,38,North Dakota,Unemployment
@@ -3565,7 +3687,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,395451.0,38,North Dakota,Unemployment
 2020,M03,March,397604.0,38,North Dakota,Unemployment
 2020,M04,April,369752.0,38,North Dakota,Unemployment
-2020,M05,May,365803.0,38,North Dakota,Unemployment
+2020,M05,May,365917.0,38,North Dakota,Unemployment
+2020,M06,June,374388.0,38,North Dakota,Unemployment
 2018,M01,January,3.9,45,South Carolina,Rate
 2018,M02,February,3.8,45,South Carolina,Rate
 2018,M03,March,3.6,45,South Carolina,Rate
@@ -3594,7 +3717,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.5,45,South Carolina,Rate
 2020,M03,March,3.2,45,South Carolina,Rate
 2020,M04,April,12.8,45,South Carolina,Rate
-2020,M05,May,12.5,45,South Carolina,Rate
+2020,M05,May,12.4,45,South Carolina,Rate
+2020,M06,June,8.7,45,South Carolina,Rate
 2018,M01,January,90683.0,45,South Carolina,Employment
 2018,M02,February,87570.0,45,South Carolina,Employment
 2018,M03,March,84468.0,45,South Carolina,Employment
@@ -3623,7 +3747,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,58631.0,45,South Carolina,Employment
 2020,M03,March,76369.0,45,South Carolina,Employment
 2020,M04,April,303360.0,45,South Carolina,Employment
-2020,M05,May,303218.0,45,South Carolina,Employment
+2020,M05,May,299668.0,45,South Carolina,Employment
+2020,M06,June,210721.0,45,South Carolina,Employment
 2018,M01,January,2232819.0,45,South Carolina,Unemployment
 2018,M02,February,2238369.0,45,South Carolina,Unemployment
 2018,M03,March,2244195.0,45,South Carolina,Unemployment
@@ -3652,7 +3777,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2333224.0,45,South Carolina,Unemployment
 2020,M03,March,2328802.0,45,South Carolina,Unemployment
 2020,M04,April,2073470.0,45,South Carolina,Unemployment
-2020,M05,May,2118575.0,45,South Carolina,Unemployment
+2020,M05,May,2116430.0,45,South Carolina,Unemployment
+2020,M06,June,2222144.0,45,South Carolina,Unemployment
 2018,M01,January,4.2,37,North Carolina,Rate
 2018,M02,February,4.1,37,North Carolina,Rate
 2018,M03,March,4.1,37,North Carolina,Rate
@@ -3681,7 +3807,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.6,37,North Carolina,Rate
 2020,M03,March,4.3,37,North Carolina,Rate
 2020,M04,April,12.9,37,North Carolina,Rate
-2020,M05,May,12.9,37,North Carolina,Rate
+2020,M05,May,12.8,37,North Carolina,Rate
+2020,M06,June,7.6,37,North Carolina,Rate
 2018,M01,January,207636.0,37,North Carolina,Employment
 2018,M02,February,205749.0,37,North Carolina,Employment
 2018,M03,March,203817.0,37,North Carolina,Employment
@@ -3710,7 +3837,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,182606.0,37,North Carolina,Employment
 2020,M03,March,215700.0,37,North Carolina,Employment
 2020,M04,April,605692.0,37,North Carolina,Employment
-2020,M05,May,621713.0,37,North Carolina,Employment
+2020,M05,May,615512.0,37,North Carolina,Employment
+2020,M06,June,363465.0,37,North Carolina,Employment
 2018,M01,January,4749545.0,37,North Carolina,Unemployment
 2018,M02,February,4756173.0,37,North Carolina,Unemployment
 2018,M03,March,4766016.0,37,North Carolina,Unemployment
@@ -3739,7 +3867,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,4932056.0,37,North Carolina,Unemployment
 2020,M03,March,4755540.0,37,North Carolina,Unemployment
 2020,M04,April,4082234.0,37,North Carolina,Unemployment
-2020,M05,May,4200388.0,37,North Carolina,Unemployment
+2020,M05,May,4200723.0,37,North Carolina,Unemployment
+2020,M06,June,4428221.0,37,North Carolina,Unemployment
 2018,M01,January,3.1,49,Utah,Rate
 2018,M02,February,3.1,49,Utah,Rate
 2018,M03,March,3.1,49,Utah,Rate
@@ -3768,7 +3897,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.5,49,Utah,Rate
 2020,M03,March,3.8,49,Utah,Rate
 2020,M04,April,10.4,49,Utah,Rate
-2020,M05,May,8.5,49,Utah,Rate
+2020,M05,May,8.6,49,Utah,Rate
+2020,M06,June,5.1,49,Utah,Rate
 2018,M01,January,48554.0,49,Utah,Employment
 2018,M02,February,48292.0,49,Utah,Employment
 2018,M03,March,48128.0,49,Utah,Employment
@@ -3797,7 +3927,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,40451.0,49,Utah,Employment
 2020,M03,March,62448.0,49,Utah,Employment
 2020,M04,April,166294.0,49,Utah,Employment
-2020,M05,May,137254.0,49,Utah,Employment
+2020,M05,May,137811.0,49,Utah,Employment
+2020,M06,June,85677.0,49,Utah,Employment
 2018,M01,January,1512307.0,49,Utah,Unemployment
 2018,M02,February,1513912.0,49,Utah,Unemployment
 2018,M03,March,1515420.0,49,Utah,Unemployment
@@ -3826,7 +3957,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,1590199.0,49,Utah,Unemployment
 2020,M03,March,1562935.0,49,Utah,Unemployment
 2020,M04,April,1434307.0,49,Utah,Unemployment
-2020,M05,May,1473599.0,49,Utah,Unemployment
+2020,M05,May,1471957.0,49,Utah,Unemployment
+2020,M06,June,1579898.0,49,Utah,Unemployment
 2018,M01,January,3.9,40,Oklahoma,Rate
 2018,M02,February,3.8,40,Oklahoma,Rate
 2018,M03,March,3.7,40,Oklahoma,Rate
@@ -3856,6 +3988,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,2.9,40,Oklahoma,Rate
 2020,M04,April,14.7,40,Oklahoma,Rate
 2020,M05,May,12.6,40,Oklahoma,Rate
+2020,M06,June,6.6,40,Oklahoma,Rate
 2018,M01,January,71251.0,40,Oklahoma,Employment
 2018,M02,February,69937.0,40,Oklahoma,Employment
 2018,M03,March,68370.0,40,Oklahoma,Employment
@@ -3884,7 +4017,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,58430.0,40,Oklahoma,Employment
 2020,M03,March,53727.0,40,Oklahoma,Employment
 2020,M04,April,261299.0,40,Oklahoma,Employment
-2020,M05,May,229039.0,40,Oklahoma,Employment
+2020,M05,May,230245.0,40,Oklahoma,Employment
+2020,M06,June,116602.0,40,Oklahoma,Employment
 2018,M01,January,1773283.0,40,Oklahoma,Unemployment
 2018,M02,February,1775321.0,40,Oklahoma,Unemployment
 2018,M03,March,1777502.0,40,Oklahoma,Unemployment
@@ -3913,7 +4047,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,1785827.0,40,Oklahoma,Unemployment
 2020,M03,March,1776101.0,40,Oklahoma,Unemployment
 2020,M04,April,1515047.0,40,Oklahoma,Unemployment
-2020,M05,May,1591919.0,40,Oklahoma,Unemployment
+2020,M05,May,1592762.0,40,Oklahoma,Unemployment
+2020,M06,June,1649171.0,40,Oklahoma,Unemployment
 2018,M01,January,4.0,56,Wyoming,Rate
 2018,M02,February,4.0,56,Wyoming,Rate
 2018,M03,March,3.9,56,Wyoming,Rate
@@ -3943,6 +4078,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M03,March,3.8,56,Wyoming,Rate
 2020,M04,April,9.6,56,Wyoming,Rate
 2020,M05,May,8.8,56,Wyoming,Rate
+2020,M06,June,7.6,56,Wyoming,Rate
 2018,M01,January,11646.0,56,Wyoming,Employment
 2018,M02,February,11551.0,56,Wyoming,Employment
 2018,M03,March,11486.0,56,Wyoming,Employment
@@ -3971,7 +4107,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,10880.0,56,Wyoming,Employment
 2020,M03,March,11198.0,56,Wyoming,Employment
 2020,M04,April,28343.0,56,Wyoming,Employment
-2020,M05,May,25917.0,56,Wyoming,Employment
+2020,M05,May,25790.0,56,Wyoming,Employment
+2020,M06,June,22663.0,56,Wyoming,Employment
 2018,M01,January,279834.0,56,Wyoming,Unemployment
 2018,M02,February,279768.0,56,Wyoming,Unemployment
 2018,M03,March,279766.0,56,Wyoming,Unemployment
@@ -4000,7 +4137,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,283296.0,56,Wyoming,Unemployment
 2020,M03,March,284302.0,56,Wyoming,Unemployment
 2020,M04,April,268301.0,56,Wyoming,Unemployment
-2020,M05,May,268681.0,56,Wyoming,Unemployment
+2020,M05,May,268691.0,56,Wyoming,Unemployment
+2020,M06,June,273767.0,56,Wyoming,Unemployment
 2018,M01,January,4.8,04,Arizona,Rate
 2018,M02,February,4.8,04,Arizona,Rate
 2018,M03,March,4.7,04,Arizona,Rate
@@ -4029,7 +4167,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,4.5,04,Arizona,Rate
 2020,M03,March,6.1,04,Arizona,Rate
 2020,M04,April,13.4,04,Arizona,Rate
-2020,M05,May,8.9,04,Arizona,Rate
+2020,M05,May,9.0,04,Arizona,Rate
+2020,M06,June,10.0,04,Arizona,Rate
 2018,M01,January,160538.0,04,Arizona,Employment
 2018,M02,February,160937.0,04,Arizona,Employment
 2018,M03,March,160831.0,04,Arizona,Employment
@@ -4058,7 +4197,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,161238.0,04,Arizona,Employment
 2020,M03,March,219151.0,04,Arizona,Employment
 2020,M04,April,473766.0,04,Arizona,Employment
-2020,M05,May,316436.0,04,Arizona,Employment
+2020,M05,May,318985.0,04,Arizona,Employment
+2020,M06,June,349302.0,04,Arizona,Employment
 2018,M01,January,3205948.0,04,Arizona,Unemployment
 2018,M02,February,3215169.0,04,Arizona,Unemployment
 2018,M03,March,3225595.0,04,Arizona,Unemployment
@@ -4087,7 +4227,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3451805.0,04,Arizona,Unemployment
 2020,M03,March,3359486.0,04,Arizona,Unemployment
 2020,M04,April,3069951.0,04,Arizona,Unemployment
-2020,M05,May,3230076.0,04,Arizona,Unemployment
+2020,M05,May,3233472.0,04,Arizona,Unemployment
+2020,M06,June,3147626.0,04,Arizona,Unemployment
 2018,M01,January,4.3,44,Rhode Island,Rate
 2018,M02,February,4.3,44,Rhode Island,Rate
 2018,M03,March,4.2,44,Rhode Island,Rate
@@ -4116,7 +4257,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.4,44,Rhode Island,Rate
 2020,M03,March,4.7,44,Rhode Island,Rate
 2020,M04,April,18.1,44,Rhode Island,Rate
-2020,M05,May,16.3,44,Rhode Island,Rate
+2020,M05,May,16.4,44,Rhode Island,Rate
+2020,M06,June,12.4,44,Rhode Island,Rate
 2018,M01,January,24099.0,44,Rhode Island,Employment
 2018,M02,February,23775.0,44,Rhode Island,Employment
 2018,M03,March,23323.0,44,Rhode Island,Employment
@@ -4145,7 +4287,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,18780.0,44,Rhode Island,Employment
 2020,M03,March,26460.0,44,Rhode Island,Employment
 2020,M04,April,95779.0,44,Rhode Island,Employment
-2020,M05,May,84906.0,44,Rhode Island,Employment
+2020,M05,May,85781.0,44,Rhode Island,Employment
+2020,M06,June,68371.0,44,Rhode Island,Employment
 2018,M01,January,530280.0,44,Rhode Island,Unemployment
 2018,M02,February,530755.0,44,Rhode Island,Unemployment
 2018,M03,March,531319.0,44,Rhode Island,Unemployment
@@ -4174,7 +4317,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,539751.0,44,Rhode Island,Unemployment
 2020,M03,March,538703.0,44,Rhode Island,Unemployment
 2020,M04,April,433290.0,44,Rhode Island,Unemployment
-2020,M05,May,437273.0,44,Rhode Island,Unemployment
+2020,M05,May,436675.0,44,Rhode Island,Unemployment
+2020,M06,June,481465.0,44,Rhode Island,Unemployment
 2018,M01,January,3.1,23,Maine,Rate
 2018,M02,February,3.1,23,Maine,Rate
 2018,M03,March,3.2,23,Maine,Rate
@@ -4203,7 +4347,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,3.2,23,Maine,Rate
 2020,M03,March,3.0,23,Maine,Rate
 2020,M04,April,10.4,23,Maine,Rate
-2020,M05,May,9.3,23,Maine,Rate
+2020,M05,May,9.4,23,Maine,Rate
+2020,M06,June,6.6,23,Maine,Rate
 2018,M01,January,21799.0,23,Maine,Employment
 2018,M02,February,21841.0,23,Maine,Employment
 2018,M03,March,22016.0,23,Maine,Employment
@@ -4232,7 +4377,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,22036.0,23,Maine,Employment
 2020,M03,March,21047.0,23,Maine,Employment
 2020,M04,April,68803.0,23,Maine,Employment
-2020,M05,May,62103.0,23,Maine,Employment
+2020,M05,May,62692.0,23,Maine,Employment
+2020,M06,June,44060.0,23,Maine,Employment
 2018,M01,January,674833.0,23,Maine,Unemployment
 2018,M02,February,674892.0,23,Maine,Unemployment
 2018,M03,March,674850.0,23,Maine,Unemployment
@@ -4261,7 +4407,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,672993.0,23,Maine,Unemployment
 2020,M03,March,674282.0,23,Maine,Unemployment
 2020,M04,April,590147.0,23,Maine,Unemployment
-2020,M05,May,603185.0,23,Maine,Unemployment
+2020,M05,May,603171.0,23,Maine,Unemployment
+2020,M06,June,623926.0,23,Maine,Unemployment
 2018,M01,January,2.3,15,Hawaii,Rate
 2018,M02,February,2.3,15,Hawaii,Rate
 2018,M03,March,2.3,15,Hawaii,Rate
@@ -4290,7 +4437,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.7,15,Hawaii,Rate
 2020,M03,March,2.4,15,Hawaii,Rate
 2020,M04,April,23.8,15,Hawaii,Rate
-2020,M05,May,22.6,15,Hawaii,Rate
+2020,M05,May,23.5,15,Hawaii,Rate
+2020,M06,June,13.9,15,Hawaii,Rate
 2018,M01,January,15405.0,15,Hawaii,Employment
 2018,M02,February,15535.0,15,Hawaii,Employment
 2018,M03,March,15706.0,15,Hawaii,Employment
@@ -4319,7 +4467,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,17857.0,15,Hawaii,Employment
 2020,M03,March,15957.0,15,Hawaii,Employment
 2020,M04,April,150910.0,15,Hawaii,Employment
-2020,M05,May,143172.0,15,Hawaii,Employment
+2020,M05,May,147365.0,15,Hawaii,Employment
+2020,M06,June,85201.0,15,Hawaii,Employment
 2018,M01,January,663660.0,15,Hawaii,Unemployment
 2018,M02,February,663511.0,15,Hawaii,Unemployment
 2018,M03,March,663231.0,15,Hawaii,Unemployment
@@ -4348,7 +4497,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,651215.0,15,Hawaii,Unemployment
 2020,M03,March,649770.0,15,Hawaii,Unemployment
 2020,M04,April,482814.0,15,Hawaii,Unemployment
-2020,M05,May,490701.0,15,Hawaii,Unemployment
+2020,M05,May,479621.0,15,Hawaii,Unemployment
+2020,M06,June,527604.0,15,Hawaii,Unemployment
 2018,M01,January,2.7,33,New Hampshire,Rate
 2018,M02,February,2.7,33,New Hampshire,Rate
 2018,M03,March,2.7,33,New Hampshire,Rate
@@ -4377,7 +4527,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,2.6,33,New Hampshire,Rate
 2020,M03,March,2.4,33,New Hampshire,Rate
 2020,M04,April,17.1,33,New Hampshire,Rate
-2020,M05,May,14.5,33,New Hampshire,Rate
+2020,M05,May,15.4,33,New Hampshire,Rate
+2020,M06,June,11.8,33,New Hampshire,Rate
 2018,M01,January,20252.0,33,New Hampshire,Employment
 2018,M02,February,20209.0,33,New Hampshire,Employment
 2018,M03,March,20160.0,33,New Hampshire,Employment
@@ -4406,7 +4557,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,19935.0,33,New Hampshire,Employment
 2020,M03,March,18108.0,33,New Hampshire,Employment
 2020,M04,April,123131.0,33,New Hampshire,Employment
-2020,M05,May,105589.0,33,New Hampshire,Employment
+2020,M05,May,113019.0,33,New Hampshire,Employment
+2020,M06,June,88261.0,33,New Hampshire,Employment
 2018,M01,January,738133.0,33,New Hampshire,Unemployment
 2018,M02,February,739058.0,33,New Hampshire,Unemployment
 2018,M03,March,740073.0,33,New Hampshire,Unemployment
@@ -4435,7 +4587,8 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M02,February,759597.0,33,New Hampshire,Unemployment
 2020,M03,March,747979.0,33,New Hampshire,Unemployment
 2020,M04,April,596312.0,33,New Hampshire,Unemployment
-2020,M05,May,620634.0,33,New Hampshire,Unemployment
+2020,M05,May,621117.0,33,New Hampshire,Unemployment
+2020,M06,June,656575.0,33,New Hampshire,Unemployment
 2018,M01,January,4.1,99,United States,Rate
 2018,M02,February,4.1,99,United States,Rate
 2018,M03,March,4.0,99,United States,Rate
