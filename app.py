@@ -427,7 +427,7 @@ app.layout = html.Div([
                     ## Last Updates
                     The JOHNS HOPKINS COVID-19 Data: ''' + datetime.datetime.today().strftime("%m/%d/%Y") + '''
                     
-                    The Provisional COVID-19 Death by Sex and Age Data: 7/16/2020
+                    The Provisional COVID-19 Death by Sex and Age Data: 7/23/2020
                     
                     The Unemployment Data: ''' + bls_curr + '''
                     
