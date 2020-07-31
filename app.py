@@ -117,8 +117,9 @@ df_lau['time'] = pd.to_datetime(df_lau.time, dayfirst=True)
 # Update Date
 bls_date=BeautifulSoup(requests.get('https://www.bls.gov/lau/').text, 'html.parser')
 bls_dt=bls_date.find(class_="highlight-box-green").find_all('li')
-bls_curr = datetime.datetime.strptime(str(bls_dt[0]).split('released on ')[1].split(', at')[0], "%B %d, %Y").date().strftime("%m/%d/%Y")
-bls_next = datetime.datetime.strptime(str(bls_dt[1]).split('released on ')[1].split(', at')[0], "%B %d, %Y").date().strftime("%m/%d/%Y")
+bls_dt2=bls_date.find(class_="date")
+bls_curr = str(bls_dt2).split('\t\t\t\t')[1].split('\t\t\t')[0]
+bls_next = datetime.datetime.strptime(str(bls_dt[0]).split('released on ')[1].split(', at')[0], "%B %d, %Y").date().strftime("%m/%d/%Y")
 
 
 # ### GDP Data
