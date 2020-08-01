@@ -460,7 +460,7 @@ app.layout = html.Div([
                     The data ETL process and some charts are referenced [here](https://github.com/raffg/covid-19).
                     
                     ## Code
-                    Instructions and feature document [here](https://github.com/hss2864/covid19-economic).
+                    Instructions and feature document [here](https://github.com/hss2864/covid19-economics).
                     
                     ## Contributors
                     Kyungtae Kim, PhD; Sungjun Hong, MS; Sungsoo Hong, BS; Don Kim; Kyu Kim
