@@ -83,6 +83,13 @@ df_world = pd.read_csv(path + 'COVID/df_worldwide.csv')
 df_world['percentage'] = df_world['percentage'].astype(str)
 
 
+# Update Date
+cdc_date=BeautifulSoup(requests.get('https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-W/vsak-wrfu').text, 'html.parser')
+cdc_dt = datetime.datetime.strptime(str(cdc_date).split('lastUpdatedAt":"')[1].split('","')[0].split('.')[0], "%Y-%m-%dT%H:%M:%S")+datetime.timedelta(hours=9)
+cdc_curr = cdc_dt.strftime("%m/%d/%Y")
+
+
+
 # ### Covid Map
 
 # In[7]:
@@ -428,7 +435,7 @@ app.layout = html.Div([
                     ## Last Updates
                     The JOHNS HOPKINS COVID-19 Data: ''' + datetime.datetime.today().strftime("%m/%d/%Y") + '''
                     
-                    The Provisional COVID-19 Death by Sex and Age Data: 7/30/2020
+                    The Provisional COVID-19 Death by Sex and Age Data: ''' + cdc_curr + '''
                     
                     The Unemployment Data: ''' + bls_curr + '''
                     
