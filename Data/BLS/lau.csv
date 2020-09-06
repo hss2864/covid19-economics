@@ -4773,6 +4773,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M05,May,13.3,99,United States,Rate
 2020,M06,June,11.1,99,United States,Rate
 2020,M07,July,10.2,99,United States,Rate
+2020,M08,August,8.4,99,United States,Rate
 2018,M01,January,154486.0,99,United States,Employment
 2018,M02,February,155142.0,99,United States,Employment
 2018,M03,March,155191.0,99,United States,Employment
@@ -4804,6 +4805,7 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M05,May,137242.0,99,United States,Employment
 2020,M06,June,142182.0,99,United States,Employment
 2020,M07,July,143532.0,99,United States,Employment
+2020,M08,August,147288.0,99,United States,Employment
 2018,M01,January,6582.0,99,United States,Unemployment
 2018,M02,February,6641.0,99,United States,Unemployment
 2018,M03,March,6493.0,99,United States,Unemployment
@@ -4835,3 +4837,4 @@ year,period,periodName,value,state_cd,state_nm,type
 2020,M05,May,20985.0,99,United States,Unemployment
 2020,M06,June,17750.0,99,United States,Unemployment
 2020,M07,July,16338.0,99,United States,Unemployment
+2020,M08,August,13550.0,99,United States,Unemployment
