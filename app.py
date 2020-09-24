@@ -869,7 +869,7 @@ def death_sex(val):
     trace = []
     # draw and append traces for each state
     for gr in age_n:
-        trace.append(go.Scatter(x = df1[df1['age_group'] == gr]['week_ending_date'],
+        trace.append(go.Scatter(x = df1[df1['age_group'] == gr]['end_week'],
                                 y = df1[df1['age_group'] == gr]['covid_19_deaths'],
                                 hovertemplate='%{y:,g}',
                                 mode = 'lines',
