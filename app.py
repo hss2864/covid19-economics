@@ -200,7 +200,9 @@ sex_n = df_s_a['sex'].unique()
 
 
 app = dash.Dash()
+app.title = ("Cov Dashboard | Coronavirus COVID-19 & Economics Impact.")
 server = app.server
+
 app.layout = html.Div([
     
     # Tab start
