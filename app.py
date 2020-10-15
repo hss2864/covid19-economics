@@ -435,7 +435,7 @@ app.layout = html.Div([
                children=[
                     html.Div(dcc.Markdown('''
                     ## Last Updates
-                    The JOHNS HOPKINS COVID-19 Data: ''' + datetime.datetime.today().strftime("%m/%d/%Y") + '''
+                    The JOHNS HOPKINS COVID-19 Data: 10/15/2020
                     
                     The Provisional COVID-19 Death by Sex and Age Data: ''' + cdc_curr + '''
                     
@@ -443,7 +443,7 @@ app.layout = html.Div([
                     
                     The GDP Data: ''' + bea_curr + '''
                     
-                    App: ''' + datetime.datetime.today().strftime("%m/%d/%Y") + '''
+                    App: 10/15/2020
                     
                     ## Summary
                     This is interactive web dashboard to view COVID-19 and Economic-Impact data from across the United States. We used the public data and  deployed on Heroku with Python and Dash.
